@@ -19,6 +19,6 @@ A network socket is an endpoint of a two-way communication link between two part
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#socket)
 [Addressing, Protocol Families and Socket Types](https://pymotw.com/2/socket/addressing.html)
 
-Two vedio Tutorial: 
+Two vedio tutorials: 
 [1](https://www.youtube.com/watch?v=3QiPPX-KeSc) , 
 [2](https://www.youtube.com/watch?v=8A4dqoGL62E)
